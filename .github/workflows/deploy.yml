@@ -5,6 +5,7 @@ on:
     branches:
       - main
       - claude/todoist-inspired-todo-app-eZxly
+      - claude/fix-github-pages-display-gYLVM
 
 permissions:
   contents: read
