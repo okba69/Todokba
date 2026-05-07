@@ -5,6 +5,7 @@ on:
     branches:
       - main
       - claude/todoist-inspired-todo-app-eZxly
+      - claude/merge-branches-znCdu
 
 permissions:
   contents: read
